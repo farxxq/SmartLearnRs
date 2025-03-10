@@ -1,9 +1,9 @@
-import Layout from "../app/LandingPage/Layout/Layout";
+import Home from "../app/LandingPage/Home/Home";
 
 function App() {
   return (
     <>
-      <Layout />
+      <Home />
     </>
   );
 }
